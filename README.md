@@ -8,6 +8,7 @@
 Este repositorio incluye la clonación de la pantalla del buscador Bing utilizando HTML y CSS.
 
 ## <div id = "imagenes"> Imágenes
+
   Plantila para clonar:
   
   ![image](https://user-images.githubusercontent.com/110055279/191986260-5b3e0ac5-1a9a-49ca-9328-f44eb126dfa4.png)
